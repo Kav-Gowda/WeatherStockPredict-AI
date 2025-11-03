@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# Data & outputs
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.pickle
+*.pkl
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# IDE/project files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model artifacts
+*.h5
+*.joblib
+*.pt
+*.pth
+*.onnx
